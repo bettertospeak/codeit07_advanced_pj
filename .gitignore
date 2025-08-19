@@ -1,0 +1,4 @@
+venv/
+.cache/
+.vscode-server/
+.ipynb_checkpoints/
