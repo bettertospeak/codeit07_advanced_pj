@@ -16,8 +16,7 @@
 > 🔺 본 버전에서 처리할 부분
 1. 불필요한 점검 코드 정리
 2. hackle에서 user_id별, session별 duration 변수 추가
-
-  
+---  
 ### 2️⃣ Second Commit (Branch 'session')
 > 🔁 변동사항
 1. 모델링 전 테이블 전처리 코드 정리
