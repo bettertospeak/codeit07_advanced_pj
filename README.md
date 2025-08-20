@@ -1,10 +1,9 @@
 # 클러스터링 코드 버전 관리
 
 ## version
-* [8/18 최초 모델링 코드](https://github.com/bettertospeak/codeit07_advanced_pj/blob/main/pj_team1/advanced_pj_modeling.ipynb)
----
+* [8/18 votes 모델링 코드](https://github.com/bettertospeak/codeit07_advanced_pj/blob/main/pj_team1/advanced_pj_modeling.ipynb)
 * [8/20 votes + hackle 모델링 코드](https://github.com/bettertospeak/codeit07_advanced_pj/blob/main/Desktop/only_behavior_test.ipynb)
-
+---
 ### 1️⃣ First Commit (Bransh 'main')
 > 🔁 변동사항
 1. votes에서 만든 questionset_cnt(질문세트 생성 수), vote_cnt(투표 수) 변수 제거
